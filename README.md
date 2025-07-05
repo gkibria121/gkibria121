@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on Jump Into Job
-- 🌱 I’m currently learning Advanced software design patterns
+- 🔭 I’m currently working on DNP price engine
+- 🌱 I’m currently learning AI/ML
 - 👯 I’m looking to collaborate on Modern software 
 - 📫 How to reach me: gkibria121@gmail.com
 
